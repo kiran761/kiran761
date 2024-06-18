@@ -25,6 +25,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="python" width="40" height="40"/> </a>
-  <a href="[https://react.dev/](https://spring.io/)" target="_blank" rel="noreferrer"> <img src="[[https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgdsc.community.dev%2Fevents%2Fdetails%2Fdeveloper-student-clubs-banasthali-university-presents-building-java-project-with-spring-boot%2F&psig=AOvVaw3lLMwYNWb87jIHsn4lPPAQ&ust=1718794311835000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjVy_b95IYDFQAAAAAdAAAAABAE)](https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png)" width="40" height="40"/> </a>
+  <a href="[https://react.dev/](https://spring.io/)" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/spring-logo.png" width="40" height="40"/> </a>
 </p>
 
